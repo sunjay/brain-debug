@@ -1,7 +1,7 @@
 {
-  "name": "brainfuck-visualizer",
+  "name": "brain-debug",
   "version": "1.0.0",
-  "description": "A brainfuck visualizer built as a companion to the brain programming language compiler",
+  "description": "Brain programming language debugging and visualization interface.",
   "main": "./app/main.js",
   "scripts": {
     "start": "./node_modules/.bin/electron .",
@@ -14,7 +14,6 @@
   "repository": "https://github.com/sunjay/brain",
   "keywords": [
     "brainfuck",
-    "visualizer",
     "brain",
     "interpreter"
   ],

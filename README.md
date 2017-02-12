@@ -1,7 +1,7 @@
-# brainfuck-visualizer
+# brain-debug
 
-Brainfuck Visualizer specialized for use with the brain programming language.
-Requires the brainfuck-brain interpreter to be installed.
+Brain programming language debugging and visualization interface.
+Make sure you install brain and the brain-brainfuck interpreter.
 
 ## Usage
 
