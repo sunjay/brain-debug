@@ -11,7 +11,7 @@
     "test": "./node_modules/.bin/mocha --reporter spec --compilers jsx:babel-register \"tests/**/*.tests.js\" \"tests/**/*.tests.jsx\"",
     "clean": "rm -rf dist/"
   },
-  "repository": "https://github.com/sunjay/brain",
+  "repository": "https://github.com/brain-lang/brain-debug",
   "keywords": [
     "brainfuck",
     "brain",
