@@ -6,8 +6,8 @@ const {
 
 // Array of:
 // {
-//   lastInstructionIndex: 0,
-//   lastInstruction: '>',
+//   currentInstructionIndex: 0,
+//   instruction: '>',
 //   currentPointer: 0,
 //   memory: [0],
 // }
